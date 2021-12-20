@@ -2,7 +2,7 @@
 Preproductie verslag
 
 ## Todo
-- [ ] Plattegrond van het pand
+- [x] Plattegrond van het pand
 - [ ] Invulling van het pand
 - [ ] Podium tekeningen
 - [ ] stroomplan

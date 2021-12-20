@@ -18,3 +18,8 @@ Preproductie verslag
 - [ ] begroting
 - [ ] risico inventarisatie
 - [ ] frequentieplan
+
+## Plattegronden
+
+![Begane grond](/Plattegronden/Plattegrond_Beganegrond_namen.png)
+

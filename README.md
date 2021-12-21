@@ -21,7 +21,12 @@ Preproductie verslag
 
 ## Plattegronden
 
+### Begane Grond
+
 ![Begane grond](/Plattegronden/PNGs/Plattegrond_Beganegrond_namen.png)
+
+### Eerste Verdieping
+
 ![Eerste verdieping](/Plattegronden/PNGs/Plattegrond_EersteVerdieping_Namen.png)
 
 ## Podia

@@ -30,3 +30,9 @@ Preproductie verslag
 ![Eerste verdieping](/Plattegronden/PNGs/Plattegrond_EersteVerdieping_Namen.png)
 
 ## Podia
+
+![Mainstage Back](/Podium Tekeningen/Screencaps/Mainstage_Back.png)
+
+![Mainstage Side](/Podium Tekeningen/Screencaps/Mainstage_Side.png)
+
+![Mainstage Top](/Podium Tekeningen/Screencaps/Mainstage_Topview.png)

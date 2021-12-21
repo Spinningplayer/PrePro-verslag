@@ -31,8 +31,8 @@ Preproductie verslag
 
 ## Podia
 
-![Mainstage Back](/Podium Tekeningen/Screencaps/Mainstage_Back.png)
+![Mainstage Back](/Podium%20Tekeningen/Screencaps/Mainstage_Back.png)
 
-![Mainstage Side](/Podium Tekeningen/Screencaps/Mainstage_Side.png)
+![Mainstage Side](/Podium%20Tekeningen/Screencaps/Mainstage_Side.png)
 
-![Mainstage Top](/Podium Tekeningen/Screencaps/Mainstage_Topview.png)
+![Mainstage Top](/Podium%20Tekeningen/Screencaps/Mainstage_Topview.png)

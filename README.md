@@ -4,7 +4,7 @@ Preproductie verslag
 ## Todo
 - [x] Plattegrond van het pand
 - [ ] Invulling van het pand
-- [ ] Podium tekeningen
+- [X] Podium tekeningen
 - [ ] stroomplan
 - [ ] audioplan
 - [ ] videoplan
@@ -31,8 +31,18 @@ Preproductie verslag
 
 ## Podia
 
+### Mainstage
+
 ![Mainstage Back](/Podium%20Tekeningen/Screencaps/Mainstage_Back.png)
 
 ![Mainstage Side](/Podium%20Tekeningen/Screencaps/Mainstage_Side.png)
 
 ![Mainstage Top](/Podium%20Tekeningen/Screencaps/Mainstage_Topview.png)
+
+### Smallstage
+
+![Smallstage Back](/Podium%20Tekeningen/Screencaps/SmallStage_Back.png)
+
+![Smallstage Side](/Podium%20Tekeningen/Screencaps/SmallStage_side.png)
+
+![Smallstage Top](/Podium%20Tekeningen/Screencaps/SmallStage_Top.png)

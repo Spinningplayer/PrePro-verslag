@@ -5,6 +5,7 @@ Preproductie verslag
 - [x] Plattegrond van het pand
 - [ ] Invulling van het pand
 - [X] Podium tekeningen
+- [x] Rigging
 - [ ] stroomplan
 - [ ] audioplan
 - [ ] videoplan

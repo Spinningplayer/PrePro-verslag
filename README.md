@@ -13,7 +13,7 @@ Preproductie verslag
 - [X] Paklijst
 - [ ] band riders
 - [ ] backline lijst
-- [ ] callsheet / personeel
+- [X] callsheet / personeel
 - [ ] draaiboek
 - [ ] hospitality
 - [ ] huisstyle

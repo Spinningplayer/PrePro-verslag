@@ -8,8 +8,9 @@ Preproductie verslag
 - [x] Rigging
 - [X] stroomplan
 - [X] audioplan
-- [ ] videoplan
+- [X] videoplan
 - [X] Lichtplan
+- [X] Paklijst
 - [ ] band riders
 - [ ] backline lijst
 - [ ] callsheet / personeel

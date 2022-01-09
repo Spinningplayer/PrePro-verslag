@@ -14,7 +14,7 @@ Preproductie verslag
 - [ ] band riders
 - [ ] backline lijst
 - [X] callsheet / personeel
-- [ ] draaiboek
+- [X] draaiboek
 - [ ] hospitality
 - [ ] huisstyle
 - [ ] begroting

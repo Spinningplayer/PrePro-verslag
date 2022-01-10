@@ -3,7 +3,6 @@ Preproductie verslag
 
 ## Todo
 - [x] Plattegrond van het pand
-- [ ] Invulling van het pand
 - [X] Podium tekeningen
 - [x] Rigging
 - [X] stroomplan
@@ -11,15 +10,12 @@ Preproductie verslag
 - [X] videoplan
 - [X] Lichtplan
 - [X] Paklijst
-- [ ] band riders
-- [ ] backline lijst
+- [X] band riders
+- [X] backline lijst
 - [X] callsheet / personeel
 - [X] draaiboek
-- [ ] hospitality
-- [ ] huisstyle
-- [ ] begroting
-- [ ] risico inventarisatie
-- [ ] frequentieplan
+- [X] hospitality
+- [X] begroting
 
 ## Plattegronden
 
